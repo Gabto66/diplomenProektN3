@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6b772fc063faf604fb98c0683835a70e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {fileID: 8474383216146188006, guid: 829710112a439944e9a25c76b37395b3, type: 3}
+  - waveCountdownText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
